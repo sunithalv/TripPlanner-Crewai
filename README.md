@@ -1,3 +1,16 @@
+---
+title: Trip Planner in Crewai
+emoji: 🐨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Trip planner
+---
+
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
 ![Streamlit App](images/trip_planner.jpg)
@@ -66,6 +79,3 @@ Pass the Ollama model to agents in the CrewAI framework:
 ```
 
 
-## License
-
-Trip Planner is open-sourced under the MIT License.
