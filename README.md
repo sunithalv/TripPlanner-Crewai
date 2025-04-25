@@ -13,7 +13,7 @@ short_description: Trip planner
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
-![Streamlit App](images/trip_planner.jpg)
+Checkout the app deployed at https://tripplanner-crewai-app.streamlit.app/
 
 ## Introduction
 
