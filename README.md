@@ -66,6 +66,3 @@ Pass the Ollama model to agents in the CrewAI framework:
 ```
 
 
-## License
-
-Trip Planner is open-sourced under the MIT License.
