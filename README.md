@@ -1,3 +1,16 @@
+---
+title: Trip Planner in Crewai
+emoji: 🐨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: Trip planner
+---
+
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
 ![Streamlit App](images/trip_planner.jpg)
