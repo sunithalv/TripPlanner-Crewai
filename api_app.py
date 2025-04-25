@@ -6,7 +6,7 @@ from typing import Optional
 from crewai import Crew,LLM
 from src.tripplanner.tripplanner_agents import TripAgents
 from src.tripplanner.tripplanner_tasks import TripTasks
-from langchain_openai import OpenAI
+#from langchain_openai import OpenAI
 import os
 from dotenv import load_dotenv
 from functools import lru_cache
