@@ -13,6 +13,7 @@ short_description: Trip planner
 
 # 🏖️ Trip Planner: Streamlit with CrewAI
 
+ Checkout the app deployed at https://tripplanner-crewai-app.streamlit.app/
 ## Introduction
 
 Trip Planner leverages the CrewAI framework to automate and enhance the trip planning experience, integrating a CLI, FASTAPI, and a user-friendly Streamlit interface.
